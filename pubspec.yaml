@@ -16,6 +16,8 @@ dependencies:
   sqflite: ^2.0.0+4
   path_provider: ^2.0.10
   floor: ^1.0.0
+  video_player: ^2.5.0
+  chewie: ^1.3.0
 
 dev_dependencies:
   flutter_test:
@@ -38,6 +40,8 @@ flutter:
     - assets/muscleGroup/hands.png
     - assets/muscleGroup/abs.png
     - assets/muscleGroup/legs.png
-    - assets/exercise/press_bench.jpg
+    - assets/exercise/press_bench.png
+    - assets/exercise/dumbbell_press.png
+    - assets/error.png
 
   # Optional: Custom fonts (add fonts here if needed in the future).
